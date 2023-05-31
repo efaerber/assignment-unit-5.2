@@ -1,0 +1,17 @@
+header {
+    background-color: darkblue;
+    color: aqua;
+    text-align: center;
+}
+
+main {
+    padding: 1em;
+    background-color: lightgray;
+}
+
+body {
+    margin: 0;
+    background-image: url(https://raw.githubusercontent.com/efaerber/assignment-unit-5.2/main/example.png);
+    background-repeat: repeat;
+    background-size: cover;
+}
